@@ -1,7 +1,7 @@
 
 
-# Getting S![Web capture_14-6-2022_124928_localhost](https://user-images.githubusercontent.com/72328255/173517571-b1a4ddf9-54ab-42d4-92e0-08cd31950e7b.jpeg)
-tarted with Create React App
+![Web capture_14-6-2022_124928_localhost](https://user-images.githubusercontent.com/72328255/173517571-b1a4ddf9-54ab-42d4-92e0-08cd31950e7b.jpeg)
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React A![Web capture_14-6-2022_124928_localhost](https://user-images.githubusercontent.com/72328255/173517496-c8d83e93-c67b-4432-bb3b-36519483eead.jpeg)
 pp](https://github.com/facebook/create-react-app).
